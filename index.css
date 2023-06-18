@@ -1,3 +1,19 @@
+body {
+    background-color: green;
+}
+
+.navbar {
+    background-color: paleturquoise;
+}
+
 .navbar-brand {
-    color: purple;
+    color: black;
+}
+
+.container {
+    color: black;
+}
+
+.card {
+    background-color: white;
 }
